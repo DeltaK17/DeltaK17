@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deltak17&show_icons=true&locale=en" alt="deltak17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deltak17&" alt="deltak17" /></p>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/659c10a3ae22c1252342874b?variant=dark" alt="roadmap.sh"/></a>
