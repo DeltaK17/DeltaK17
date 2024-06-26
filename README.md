@@ -36,7 +36,8 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+![Ry6p](https://github.com/DeltaK17/DeltaK17/assets/158074959/560c5326-7d6f-481b-b3ea-b987d7231726)
+
 
 ###
 
